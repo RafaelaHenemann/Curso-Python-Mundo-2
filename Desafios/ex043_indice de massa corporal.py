@@ -1,0 +1,1 @@
+# Desenvolva uma lógica que leia o peso e a altura de uma pessoa, calcule seu Índice de massa COrporral (IMC) e mostre seu status, de acordo com a tabela abaixo: IMC abaixo de 18,5 - Abaixo do peso; Entre 18,5 e 25 - Peso ideal; De 26 a 30 - Sobrepeso; De 31 a 40 - Obesidade; Acima de 40 - Obesidade Mórbida.
